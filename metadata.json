@@ -1,0 +1,7 @@
+{
+  "name": " NovaBank AI",
+  "description": "Next-generation AI-powered mobile banking with natural language transactions, bill splitting, and smart currency exchange.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
